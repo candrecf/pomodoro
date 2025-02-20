@@ -20,4 +20,4 @@ Se deseja rodar ou modificar o projeto, siga os passos abaixo:
 
 1. **Clone o repositório** usando Git:  
    ```sh
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/candrecf/pomodoro.git
